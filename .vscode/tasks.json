@@ -40,8 +40,9 @@
 				"includes": "**/*",
 				"excludes": "**/.*",
 				"adfCreateOptions": [
-					"--label=MYDISK"
-				]
+					"--label=PimpMyRetro"
+				],
+				"bootBlockSourceFile": "bblock.s"
 			},
 			"problemMatcher": [],
 			"label": "amigaassembly: create ADF"
